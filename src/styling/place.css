@@ -1,0 +1,28 @@
+.details{
+    font-family: 'Times New Roman';
+    font-size: 22px;
+}
+
+.details h5{
+    font-size: 18px;
+}
+
+.search-bar input{
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:15%;
+    padding-right:15%;
+    box-shadow:5px 5px 5px grey;
+}
+
+#image{
+    border-radius: 50%;
+}
+
+button a{
+    text-decoration: none;
+    color:white;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.reg-form{
+    padding:3%;
+    display:block;
+    align-items: center;
+    gap:10px;
+    color:white;
+    background-color: rgb(6, 4, 16);
+    margin-left:9%;
+    margin-right:9%;
+    box-shadow:10px 10px 10px grey;
+    border-radius: 2%;
+     
+}
+
+

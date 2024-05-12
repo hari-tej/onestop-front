@@ -1,0 +1,60 @@
+.home-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:3%;
+    
+}
+
+.home-btn button{
+   
+    border-radius: 10%;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:25px;
+    padding-right:25px;
+
+    background-color: white;
+    color:black;
+}
+
+
+.home-btn button:hover{
+    transform: scale(1.2);
+    color:white;
+    background-color: black;
+}
+
+#first h2{
+    color:white;
+}
+#first img{
+    border-radius: 50%;
+}
+#second {
+    color:white;
+}
+#second h4{
+    color:black;
+}
+
+#third h5{
+    color:white;
+}
+
+.last{
+    color:white;
+    background-color: rgb(12, 39, 107);
+}
+
+#third img{
+    border-radius: 50%;
+}
+
+#third a{
+    text-decoration: none;
+}
+
+.first{
+       background-color: rgb(6, 4, 16);
+}
