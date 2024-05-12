@@ -58,7 +58,7 @@ export const Register=()=>{
        .then(result=>{
          toast.success("account created successfully");
          console.log(result)
-         navigate('/login')
+         navigate('/')
        }).catch(err=>{
         toast.error(err.message);
         console.log(err)
